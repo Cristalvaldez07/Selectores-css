@@ -1,4 +1,7 @@
-/*Tomamos los elementos "a" que se encuentran dentro de los elementos "li" */
-li a {
-    text-decoration: none;
+* {
+    font-family: verdana, arial, sans-serif;
     }
+    /*
+    El selector universal se representa con un asterisco (*), significa que todos
+    los elementos se aplicara este estilo
+    */
