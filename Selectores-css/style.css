@@ -1,4 +1,3 @@
-div > strong {
-    text-decoration: none;
+.warning {
+    font-weight: bold;
     }
-    
