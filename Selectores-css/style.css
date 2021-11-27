@@ -1,7 +1,4 @@
-* {
-    font-family: verdana, arial, sans-serif;
+div > strong {
+    text-decoration: none;
     }
-    /*
-    El selector universal se representa con un asterisco (*), significa que todos
-    los elementos se aplicara este estilo
-    */
+    
